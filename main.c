@@ -6,6 +6,7 @@ int main()
    int age= 20;
 
     printf("Your age is:%d\n", age);
-    printf("hello world");
+    printf("hello world\n");
+    printf("sample changes for dev branch");
     return 0;
 }
