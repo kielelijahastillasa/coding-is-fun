@@ -3,8 +3,9 @@
 
 int main()
 {
-    int x = 1;
-    x += 10;
-    printf("%d", x);
+   int age= 20;
+
+    printf("Your age is:%d\n", age);
+    printf("hello world");
     return 0;
 }
